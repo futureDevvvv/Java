@@ -1,4 +1,4 @@
-package inheritance;
+package inheritanceNinterface;
 
 public class InheritanceEx {
 	public static void main(String[] args) {

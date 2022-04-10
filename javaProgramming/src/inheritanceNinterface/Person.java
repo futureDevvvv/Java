@@ -1,4 +1,4 @@
-package inheritance;
+package inheritanceNinterface;
 
 public class Person {
 	private int weight;

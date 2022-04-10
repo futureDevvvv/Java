@@ -1,4 +1,4 @@
-package inheritance;
+package inheritanceNinterface;
 
 public class ColorPoint extends Point {
 	private String color;

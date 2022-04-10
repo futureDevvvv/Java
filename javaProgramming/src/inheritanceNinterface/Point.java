@@ -1,4 +1,4 @@
-package inheritance;
+package inheritanceNinterface;
 
 public class Point {
 	private int x, y;

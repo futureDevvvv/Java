@@ -1,4 +1,4 @@
-package inheritance;
+package inheritanceNinterface;
 
 public class Student extends Person{
 	public void set() {

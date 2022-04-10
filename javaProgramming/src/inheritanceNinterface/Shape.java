@@ -1,4 +1,4 @@
-package inheritance;
+package inheritanceNinterface;
 
 class Shape { //슈퍼클래스
 	public Shape next;

@@ -1,4 +1,4 @@
-package inheritance;
+package inheritanceNinterface;
 
 public class MethodOverriding {
 	static void paint(Shape p) {
